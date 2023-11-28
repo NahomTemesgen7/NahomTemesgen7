@@ -6,10 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [NahomTemesgen7](NahomTemesgen7)
 
-- 📫 How to reach me **mohanbenjamin63@gmail.com**
+- Wanna 💬? You can find me on [Nahom Temesgen](mailto:mohanbenjamin63@gmail.com?subject=[GitHub]).
 
-- ⚡ Fun fact **Gamer**
-
+- ⚡ I love 🎮 (still learning 😃) and Reading 📖
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nahomtemesgen21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahomtemesgen21" height="30" width="40" /></a>
