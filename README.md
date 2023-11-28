@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahom Temesgen</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Coding">
+<img align="right" width="1000" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahomtemesgen7&label=Profile%20views&color=0e75b6&style=flat" alt="nahomtemesgen7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahomtemesgen7" alt="nahomtemesgen7" /></a> </p>
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahomtemesgen7&show_icons=true&locale=en&layout=compact" alt="nahomtemesgen7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahomtemesgen7&show_icons=true&locale=en" alt="nahomtemesgen7" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nahomtemesgen7&show_icons=true&locale=en" alt="nahomtemesgen7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahomtemesgen7&" alt="nahomtemesgen7" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nahomtemesgen7&" alt="nahomtemesgen7" /></p>
