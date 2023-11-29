@@ -24,7 +24,9 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahomtemesgen7&show_icons=true&theme=tokyonight&layout=compact" alt="nahomtemesgen7" /></p>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nahomtemesgen7&show_icons=true&theme=tokyonight&layout=compact" alt="nahomtemesgen7" /></p>
+
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nahomtemesgen7&show_icons=true&theme=tokyonight" alt="nahomtemesgen7" /></p>
+
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nahomtemesgen7&" alt="nahomtemesgen7" /></p>
 
 <h3 align="left">Support:</h3>
