@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Ethiopia 🇪🇹</h3>
 
 
-- 🌱 I’m currently learning **Frontend Development , Programing Languages**
+- 🌱 I’m currently learning **Backend Development , Programing Languages**
 
 - 👨‍💻 All of my projects are available at [GitHub](NahomTemesgen7)
 
